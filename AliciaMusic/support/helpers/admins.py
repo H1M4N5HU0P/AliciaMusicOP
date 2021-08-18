@@ -19,8 +19,8 @@ from typing import List
 
 from pyrogram.types import Chat, User
 
-from AliciaMusic.function.admins import get as gett
-from AliciaMusic.function.admins import set
+from AliciaMusic.support.function.admins import get as gett
+from AliciaMusic.support.function.admins import set
 
 
 async def get_administrators(chat: Chat) -> List[User]:

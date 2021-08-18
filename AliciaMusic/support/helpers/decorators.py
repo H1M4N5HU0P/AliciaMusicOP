@@ -21,7 +21,7 @@ from pyrogram import Client
 from pyrogram.types import Message
 
 from AliciaMusic.config import SUDO_USERS
-from AliciaMusic.helpers.admins import get_administrators
+from AliciaMusic.support.helpers.admins import get_administrators
 
 
 def errors(func: Callable) -> Callable:
