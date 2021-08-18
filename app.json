@@ -34,7 +34,7 @@
     "SUPPORT_GROUP": {
       "description": "Your MusicPlayer support group without @ [Leave this if you don't have one]",
       "required": false,
-      "value": "MafiaBot_Support"
+      "value": "MafiaBot_Chit_Chat"
     },
     "PROJECT_NAME": {
       "description": "Your MusicPlayer project Name.",
