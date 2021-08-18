@@ -2,7 +2,7 @@
   "name": "AliciaMusic",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/H1M4N5HU0P/AliciaMusic",
+  "repository": "https://github.com/H1M4N5HU0P/AliciaMusicOP",
   "logo": "https://telegra.ph/file/0e0509861103d84810678.jpg",
   "stack": "container",
   "buildpacks": [
@@ -13,7 +13,7 @@
   "env": {
     "SESSION_NAME": {
       "description": "Pyrogram session string",
-      "required": true
+      "required": true,
       "value": ""
     },
     "BOT_TOKEN": {
