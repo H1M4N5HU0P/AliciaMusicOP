@@ -1,3 +1,3 @@
-from AliciaMusic.function.admins import admins, get, set
+from AliciaMusic.support.function.admins import admins, get, set
 
 __all__ = ["set", "get", "admins"]
