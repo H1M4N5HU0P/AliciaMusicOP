@@ -19,7 +19,7 @@ from pyrogram import Client
 from pytgcalls import PyTgCalls
 
 from AliciaMusic.config import API_HASH, API_ID, SESSION_NAME
-from AliciaMusic.services.callsmusic import queues
+from AliciaMusic.support.callsmusic import queues
 
 client = Client(SESSION_NAME, API_ID, API_HASH)
 pytgcalls = PyTgCalls(client)
