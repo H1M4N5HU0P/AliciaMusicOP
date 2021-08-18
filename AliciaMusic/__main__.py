@@ -19,10 +19,10 @@ import requests
 from pyrogram import Client as Bot
 
 from AliciaMusic.config import API_HASH, API_ID, BG_IMAGE, BOT_TOKEN
-from AliciaMusic.services.callsmusic import run
+from AliciaMusic.support.callsmusic import run
 
 response = requests.get(BG_IMAGE)
-file = open("./etc/foreground.png", "wb")
+file = open("./AliciaMusic/resources/foreground.png", "wb")
 file.write(response.content)
 file.close()
 
