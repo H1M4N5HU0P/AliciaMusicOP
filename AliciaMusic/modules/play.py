@@ -52,6 +52,7 @@ from AliciaMusic.support.callsmusic.callsmusic import client as USER
 from AliciaMusic.support.converter.converter import convert
 from AliciaMusic.support.downloaders import youtube
 from AliciaMusic.config import BG_IMAGE, BOT_USERNAME, ASSISTANT_USERNAME
+
 aiohttpsession = aiohttp.ClientSession()
 chat_id = None
 arq = ARQ("https://thearq.tech", ARQ_API_KEY, aiohttpsession)

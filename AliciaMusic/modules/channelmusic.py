@@ -43,7 +43,7 @@ from AliciaMusic.config import BOT_NAME as bn
 from AliciaMusic.config import DURATION_LIMIT
 from AliciaMusic.config import UPDATES_CHANNEL as updateschannel
 from AliciaMusic.config import que
-from AliciaMusic.function.admins import admins as a
+from AliciaMusic.support.function.admins import admins as a
 from AliciaMusic.support.helpers.errors import DurationLimitError
 from AliciaMusic.support.helpers.decorators import errors
 from AliciaMusic.support.helpers.admins import get_administrators

@@ -20,7 +20,7 @@ from pyrogram.errors import UserAlreadyParticipant
 import asyncio
 from AliciaMusic.support.helpers.decorators import authorized_users_only, errors
 from AliciaMusic.support.callsmusic.callsmusic import client as USER
-from AliciaMusic.config import SUDO_USERS, BOT_USERNAME, ASSISTANT_USERNAME
+from AliciaMusic.config import SUDO_USERS, BOT_USERNAME, ASSISTANT_USERNAME, PROJECT_NAME
 
 @Client.on_message(filters.command(["userbotjoin"]) & ~filters.private & ~filters.bot)
 @authorized_users_only
@@ -38,7 +38,7 @@ async def addchannel(client, message):
     try:
         user = await USER.get_me()
     except:
-        user.first_name = "Alicia"
+        user.first_name = "{PROJECT_NAME}"
 
     try:
         await USER.join_chat(invitelink)
@@ -112,7 +112,7 @@ async def addcchannel(client, message):
     try:
         user = await USER.get_me()
     except:
-        user.first_name = "Alicia"
+        user.first_name = "{PROJECT_NAME}"
 
     try:
         await USER.join_chat(invitelink)
