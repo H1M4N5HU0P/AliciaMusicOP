@@ -18,8 +18,7 @@
 import asyncio
 from os import path
 
-from AliciaMusic.helpers.errors import FFmpegReturnCodeError
-
+from AliciaMusic.support.helpers.errors import FFmpegReturnCodeError
 
 async def convert(file_path: str) -> str:
     out = path.basename(file_path)
