@@ -1,4 +1,4 @@
-from AliciaMusic.services.callsmusic.queues.queues import (
+from AliciaMusic.support.callsmusic.queues.queues import (
     clear,
     get,
     is_empty,
