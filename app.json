@@ -14,14 +14,17 @@
     "SESSION_NAME": {
       "description": "Pyrogram session string",
       "required": true
+      "value": ""
     },
     "BOT_TOKEN": {
       "description": "A bot token from @BotFather",
-      "required": true
+      "required": true,
+      "value": ""
     },
     "BOT_USERNAME": {
       "description": "Your bot's username without @",
-      "required": true
+      "required": true,
+      "value": ""
     },
     "BOT_NAME": {
       "description": "Your MusicPlayer Bot Name.",
@@ -40,7 +43,8 @@
     },
     "ASSISTANT_NAME": {
       "description": "Your MusicPlayer's assistant name",
-      "required": true
+      "required": true,
+      "value": ""
     },
     "ARQ_API_KEY": {
       "description": "Get from @ARQRobot.",
@@ -59,7 +63,8 @@
     },    
     "API_ID": {
       "description": "App ID from my.telegram.org/apps",
-      "required": true
+      "required": true,
+      "value": ""
     },
     "PMPERMIT": {
       "description": "Change to turn off",
@@ -68,7 +73,8 @@
     },    
     "API_HASH": {
       "description": "App hash from my.telegram.org/apps",
-      "required": true
+      "required": true,
+      "value": ""
     },
     "SUDO_USERS": {
       "description": "List of user IDs counted as admin everywhere (separated by space).",
@@ -77,7 +83,7 @@
     },
     "BG_IMAGE": {
       "description": "Put your background image link go to @AliciaGroup_bot and upload your bg image and reply and enter command /tm",
-      "required": true      
+      "required": true,
       "value": "https://telegra.ph/file/0e0509861103d84810678.jpg"
     },
     "OWNER": {
