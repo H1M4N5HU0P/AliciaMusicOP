@@ -9,13 +9,13 @@
 </p>
 
 <details>
-<summary> KANGERS </summary> 
+<summary> 😏KANGERS😏 </summary> 
 <summary> KANG WITH CREDITS😏 </summary>
-- This vc music bot updated by ![Himanshu](https://t.me/H1M4N5HU0P) Repo kang with credits!!
+- This vc music bot updated by @H1M4N5HU0P Repo kang with credits!!
 </details>
 
 <details>
-<summary> Whats New 🔥 </summary>
+<summary> ⁉️WHATS NEW⁉️ </summary>
 
 - Thumbnail Support
 - Playlist Support
@@ -31,20 +31,20 @@
 
 <details>
 
-<summary> Commands 🛠 </summary>
+<summary> 📄COMMANDS📄 </summary>
 <summary> For all in group </summary>
-- `/play <song name>` - play song you requested
-- `/dplay <song name>` - play song you requested via deezer
-- `/splay <song name>` - play song you requested via jio saavn
-- `/playlist` - Show now playing list
-- `/current` - Show now playing
-- `/song <song name>` - download songs you want quickly
-- `/search <query>` - search videos on youtube with details
-- `/deezer <song name>` - download songs you want quickly via deezer
-- `/saavn <song name>` - download songs you want quickly via saavn
-- `/video <song name>` - download videos you want quickly
+<summary> - `/play <song name>` - play song you requested </summary>
+<summary> - `/dplay <song name>` - play song you requested via deezer </summary>
+<summary> - `/splay <song name>` - play song you requested via jio saavn </summary>
+<summary> - `/playlist` - Show now playing list </summary>
+<summary> - `/current` - Show now playing </summary>
+<summary> - `/song <song name>` - download songs you want quickly </summary>
+<summary> - `/search <query>` - search videos on youtube with details </summary>
+<summary> - `/deezer <song name>` - download songs you want quickly via deezer </summary>
+<summary> - `/saavn <song name>` - download songs you want quickly via saavn </summary>
+<summary> - `/video <song name>` - download videos you want quickly </summary>
 
-<summary> Admins only </summary>
+<summary> ‼️ADMINS ONLY‼️ </summary>
 
 - `/player` - open music player settings panel
 - `/pause` - pause song play
@@ -58,7 +58,7 @@
 
 <details>
 
-<summary> Deploy To Heroku </summary>
+<summary> ⚡DEPLOY TO HEROKU⚡ </summary>
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/H1M4N5HU0P/AliciaMusicOP)
 
@@ -66,7 +66,7 @@
 
 <details>
 
-<summary> Replit </summary>
+<summary> 💥REPLIT💥 </summary>
 
 - Pyrogram String Session Generator 👇
 - [![Replit](https://telegra.ph/file/fd7e6c73c3e9d57cba5e9.jpg)](https://replit.com/@H1M4N5HU0P/AliciaPyroStringSession#main.py)
