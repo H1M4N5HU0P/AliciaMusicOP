@@ -5,9 +5,16 @@
 # Available on telegram as @AliciaGroup_bot and @AliciaBotAssistant
 
 <p align="center">
-  <img src="https://telegra.ph/file/0e0509861103d84810678.jpg">
+  <img src="https://telegra.ph/file/9e02c16cc92700e765af0.jpg">
 </p>
 
+<details>
+### KANGERS
+## KANG WITH CREDITS 😏
+# This vc music bot updated by [Himanshu](https://t.me/H1M4N5HU0P) Repo kang with credits!!
+<\details>
+
+<details>
 <h2> Whats new 🔥 </h2>
 
 - Thumbnail Support
@@ -20,15 +27,15 @@
 - Control with buttons
 - Userbot auto join
 
+<\details>
 
-### Commands for Group 🛠
+<details>
+### Commands 🛠
 #### For all in group
 
 - `/play <song name>` - play song you requested
-- `/play <reply to audio>` - play replied file
 - `/dplay <song name>` - play song you requested via deezer
 - `/splay <song name>` - play song you requested via jio saavn
-- `/ytplay <song name>`: Directly play song via Youtube Music
 - `/playlist` - Show now playing list
 - `/current` - Show now playing
 - `/song <song name>` - download songs you want quickly
@@ -37,43 +44,29 @@
 - `/saavn <song name>` - download songs you want quickly via saavn
 - `/video <song name>` - download videos you want quickly
 
-#### Admins only.
+
+### Admins only 
+
 - `/player` - open music player settings panel
 - `/pause` - pause song play
 - `/resume` - resume song play
 - `/skip` - play next song
 - `/end` - stop music play
 - `/userbotjoin` - invite assistant to your chat
-- `/userbotleave` - remove assistant from your chat
 - `/admincache` - Refresh admin list
-- `/musicplayer [on/off]` - Enable/Disable Music Player
 
-### Commands for Channel Music Play 🛠
-For linked group admins only:
-- `/cplay <song name>` - play song you requested
-- `/cplay <reply to link>` - play replied youtube link
-- `/cplay <reply to audio>` - play replied file
-- `/cdplay <song name>` - play song you requested via deezer
-- `/csplay <song name>` - play song you requested via jio saavn
-- `/cplaylist` - Show now playing list
-- `/cccurrent` - Show now playing
-- `/cplayer` - open music player settings panel
-- `/cpause` - pause song play
-- `/cresume` - resume song play
-- `/cskip` - play next song
-- `/cend` - stop music play
-- `/userbotjoinchannel` - invite assistant to your chat
-* channel is also can be used instead of c
+<\details>
 
-
-#### Based on Callsmusic-1
+<details>
 
 ### Deploy To Heroku</h4>
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/H1M4N5HU0P/AliciaMusicOP)
 
-### Pyrogram String Session</h5>
-[Pyrogram String Session](https://replit.com/@H1M4N5HU0P/MafiaBotPyrogramStringSession#main.py)
+### Replit</h5>
+
+- Pyrogram String Session Generator 👇
+- [![Replit](https://telegra.ph/file/fd7e6c73c3e9d57cba5e9.jpg)](https://replit.com/@H1M4N5HU0P/AliciaPyroStringSession#main.py)
 
 </details>
 
