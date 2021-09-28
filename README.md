@@ -11,6 +11,7 @@
 <details>
 <summary> 😏KANGERS😏 </summary> 
 <summary> KANG WITH CREDITS😏 </summary>
+
 - This vc music bot updated by @H1M4N5HU0P Repo kang with credits!!
 </details>
 
@@ -30,8 +31,11 @@
 </details>
 
 <details>
+
 <summary> 📄COMMANDS📄  </summary>
+
 <summary> For all in group  </summary>
+
 - `/play <song name>` - play song you requested
 - `/dplay <song name>` - play song you requested via deezer
 -`/splay <song name>` - play song you requested via jio saavn
@@ -42,7 +46,9 @@
 - `/deezer <song name>` - download songs you want quickly via deezer
 - `/saavn <song name>` - download songs you want quickly via saavn
 - `/video <song name>` - download videos you want quickly
+
 <summary> 👉ADMINS ONLY👈 </summary>
+
 - `/player` - open music player settings panel
 - `/pause` - pause song play
 - `/resume` - resume song play
@@ -50,6 +56,7 @@
 - `/end` - stop music play
 - `/userbotjoin` - invite assistant to your chat
 - `/admincache` - Refresh admin list
+
 </details>
 
 <details>
