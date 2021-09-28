@@ -5,18 +5,18 @@
 ## Available on telegram as @AliciaGroup_bot and our Assistant @AliciaBotAssistant
 
 <p align="center">
-  <img src="https://telegra.ph/file/9e02c16cc92700e765af0.jpg">
+  <img src=!["https://telegra.ph/file/9e02c16cc92700e765af0.jpg](https://t.me/MafiaBot_Support)">
 </p>
 
 <details>
-<summary> 😏KANGERS😏 </summary> 
+<summary> • 😏KANGERS😏 • </summary> 
 <summary> KANG WITH CREDITS😏 </summary>
 
 - This vc music bot updated by @H1M4N5HU0P Repo kang with credits!!
 </details>
 
 <details>
-<summary> 🤔WHATS NEW🤔 </summary>
+<summary> • 🤔WHATS NEW🤔 • </summary>
 
 - Thumbnail Support
 - Playlist Support
@@ -32,7 +32,7 @@
 
 <details>
 
-<summary> 📄COMMANDS📄  </summary>
+<summary> • 📄COMMANDS📄 • </summary>
 
 <summary> For all in group  </summary>
 
@@ -47,7 +47,7 @@
 - `/saavn <song name>` - download songs you want quickly via saavn
 - `/video <song name>` - download videos you want quickly
 
-<summary> 👉ADMINS ONLY👈 </summary>
+<summary> • 👉ADMINS ONLY👈 • </summary>
 
 - `/player` - open music player settings panel
 - `/pause` - pause song play
@@ -61,7 +61,7 @@
 
 <details>
 
-<summary> ⚡DEPLOY TO HEROKU⚡ </summary>
+<summary> • ⚡DEPLOY TO HEROKU⚡ • </summary>
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/H1M4N5HU0P/AliciaMusicOP)
 
@@ -69,10 +69,19 @@
 
 <details>
 
-<summary> 💥REPLIT💥 </summary>
+<summary> • 💥REPLIT💥 • </summary>
 
 - Pyrogram String Session Generator 👇
 - [![Replit](https://telegra.ph/file/fd7e6c73c3e9d57cba5e9.jpg)](https://replit.com/@H1M4N5HU0P/AliciaPyroStringSession#main.py)
+
+</details>
+
+
+<details>
+
+  <summary> • 🤗SUPPORT🤗 • </summary>
+<h2 align="center"> <a href="https://t.me/MafiaBot_Support">❤️ ALICIA ❤️</a></h2>
+- Join For More Future Updates And Report Bugs!!
 
 </details>
 
