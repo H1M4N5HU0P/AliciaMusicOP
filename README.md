@@ -11,7 +11,7 @@
 <details>
 <summary> KANGERS </summary> 
 <summary> KANG WITH CREDITS😏 </summary>
-- This vc music bot updated by [Himanshu](https://t.me/H1M4N5HU0P) Repo kang with credits!!
+- This vc music bot updated by ![Himanshu](https://t.me/H1M4N5HU0P) Repo kang with credits!!
 </details>
 
 <details>
