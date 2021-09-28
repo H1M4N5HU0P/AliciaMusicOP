@@ -15,7 +15,7 @@
 </details>
 
 <details>
-<summary> ⁉️WHATS NEW⁉️ </summary>
+<summary> 🤔WHATS NEW🤔 </summary>
 
 - Thumbnail Support
 - Playlist Support
@@ -30,22 +30,19 @@
 </details>
 
 <details>
-
-<summary> 📄COMMANDS📄 </summary>
-<summary> For all in group </summary>
-<summary> - `/play <song name>` - play song you requested </summary>
-<summary> - `/dplay <song name>` - play song you requested via deezer </summary>
-<summary> - `/splay <song name>` - play song you requested via jio saavn </summary>
-<summary> - `/playlist` - Show now playing list </summary>
-<summary> - `/current` - Show now playing </summary>
-<summary> - `/song <song name>` - download songs you want quickly </summary>
-<summary> - `/search <query>` - search videos on youtube with details </summary>
-<summary> - `/deezer <song name>` - download songs you want quickly via deezer </summary>
-<summary> - `/saavn <song name>` - download songs you want quickly via saavn </summary>
-<summary> - `/video <song name>` - download videos you want quickly </summary>
-
-<summary> ‼️ADMINS ONLY‼️ </summary>
-
+<summary> 📄COMMANDS📄  </summary>
+<summary> For all in group  </summary>
+- `/play <song name>` - play song you requested
+- `/dplay <song name>` - play song you requested via deezer
+-`/splay <song name>` - play song you requested via jio saavn
+- `/playlist` - Show now playing list
+- `/current` - Show now playing
+- `/song <song name>` - download songs you want quickly
+- `/search <query>` - search videos on youtube with details
+- `/deezer <song name>` - download songs you want quickly via deezer
+- `/saavn <song name>` - download songs you want quickly via saavn
+- `/video <song name>` - download videos you want quickly
+<summary> 👉ADMINS ONLY👈 </summary>
 - `/player` - open music player settings panel
 - `/pause` - pause song play
 - `/resume` - resume song play
@@ -53,7 +50,6 @@
 - `/end` - stop music play
 - `/userbotjoin` - invite assistant to your chat
 - `/admincache` - Refresh admin list
-
 </details>
 
 <details>
