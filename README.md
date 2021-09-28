@@ -2,7 +2,7 @@
 
 ### A bot that can play music on telegram group's voice call
 
-## Available on telegram as @AliciaGroup_bot and @AliciaBotAssistant
+## Available on telegram as @AliciaGroup_bot and our Assistant @AliciaBotAssistant
 
 <p align="center">
   <img src="https://telegra.ph/file/9e02c16cc92700e765af0.jpg">
@@ -10,7 +10,7 @@
 
 <details>
 <summary> KANGERS </summary> 
-## KANG WITH CREDITS 😏
+<summary> KANG WITH CREDITS😏 </summary>
 - This vc music bot updated by [Himanshu](https://t.me/H1M4N5HU0P) Repo kang with credits!!
 </details>
 
@@ -31,7 +31,7 @@
 
 <details>
 <summary> Commands 🛠 </summary>
-For all in group
+<summary> For all in group </summary>
 - `/play <song name>` - play song you requested
 - `/dplay <song name>` - play song you requested via deezer
 - `/splay <song name>` - play song you requested via jio saavn
