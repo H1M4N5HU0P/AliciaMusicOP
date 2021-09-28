@@ -9,10 +9,10 @@
 </p>
 
 <details>
-### KANGERS
+<summary>  KANGERS </summary> 
 ## KANG WITH CREDITS 😏
 # This vc music bot updated by [Himanshu](https://t.me/H1M4N5HU0P) Repo kang with credits!!
-<\details>
+</details>
 
 <details>
 <h2> Whats new 🔥 </h2>
@@ -27,7 +27,7 @@
 - Control with buttons
 - Userbot auto join
 
-<\details>
+</details>
 
 <details>
 ### Commands 🛠
@@ -55,7 +55,7 @@
 - `/userbotjoin` - invite assistant to your chat
 - `/admincache` - Refresh admin list
 
-<\details>
+</details>
 
 <details>
 
