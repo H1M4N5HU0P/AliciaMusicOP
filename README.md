@@ -30,6 +30,7 @@
 </details>
 
 <details>
+
 <summary> Commands 🛠 </summary>
 <summary> For all in group </summary>
 - `/play <song name>` - play song you requested
@@ -42,7 +43,6 @@
 - `/deezer <song name>` - download songs you want quickly via deezer
 - `/saavn <song name>` - download songs you want quickly via saavn
 - `/video <song name>` - download videos you want quickly
-
 
 <summary> Admins only </summary>
 
