@@ -2,20 +2,20 @@
 
 ### A bot that can play music on telegram group's voice call
 
-# Available on telegram as @AliciaGroup_bot and @AliciaBotAssistant
+## Available on telegram as @AliciaGroup_bot and @AliciaBotAssistant
 
 <p align="center">
   <img src="https://telegra.ph/file/9e02c16cc92700e765af0.jpg">
 </p>
 
 <details>
-<summary>  KANGERS </summary> 
+<summary> KANGERS </summary> 
 ## KANG WITH CREDITS 😏
-# This vc music bot updated by [Himanshu](https://t.me/H1M4N5HU0P) Repo kang with credits!!
+- This vc music bot updated by [Himanshu](https://t.me/H1M4N5HU0P) Repo kang with credits!!
 </details>
 
 <details>
-<h2> Whats new 🔥 </h2>
+<summary> Whats New 🔥 </summary>
 
 - Thumbnail Support
 - Playlist Support
@@ -30,9 +30,8 @@
 </details>
 
 <details>
-### Commands 🛠
-#### For all in group
-
+<summary> Commands 🛠 </summary>
+For all in group
 - `/play <song name>` - play song you requested
 - `/dplay <song name>` - play song you requested via deezer
 - `/splay <song name>` - play song you requested via jio saavn
@@ -45,7 +44,7 @@
 - `/video <song name>` - download videos you want quickly
 
 
-### Admins only 
+<summary> Admins only </summary>
 
 - `/player` - open music player settings panel
 - `/pause` - pause song play
@@ -59,11 +58,15 @@
 
 <details>
 
-### Deploy To Heroku</h4>
+<summary> Deploy To Heroku </summary>
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/H1M4N5HU0P/AliciaMusicOP)
 
-### Replit</h5>
+</details>
+
+<details>
+
+<summary> Replit </summary>
 
 - Pyrogram String Session Generator 👇
 - [![Replit](https://telegra.ph/file/fd7e6c73c3e9d57cba5e9.jpg)](https://replit.com/@H1M4N5HU0P/AliciaPyroStringSession#main.py)
