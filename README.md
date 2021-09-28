@@ -5,7 +5,7 @@
 ## Available on telegram as @AliciaGroup_bot and our Assistant @AliciaBotAssistant
 
 <p align="center">
-  <img src=[![ALICIA](https://telegra.ph/file/9e02c16cc92700e765af0.jpg)](https://t.me/MafiaBot_Support)>
+  <img src="[![ALICIA](https://telegra.ph/file/9e02c16cc92700e765af0.jpg)](https://t.me/MafiaBot_Support)">
 </p>
 
 <details>
