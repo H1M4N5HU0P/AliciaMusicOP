@@ -63,7 +63,11 @@
 
 <summary> • ⚡DEPLOY TO HEROKU⚡ • </summary>
 
+<summary> Deploy To Heroku👇 </summary>
+ 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/H1M4N5HU0P/AliciaMusicOP)
+
+<summary> Easiest Way To Deploy🙂 </summary> 
 
 </details>
 
@@ -71,8 +75,11 @@
 
 <summary> • 💥REPLIT💥 • </summary>
 
-- Pyrogram String Session Generator 👇
+<summary> Pyrogram String Session Generator 👇 </summary> 
+
 - [![Replit](https://telegra.ph/file/fd7e6c73c3e9d57cba5e9.jpg)](https://replit.com/@H1M4N5HU0P/AliciaPyroStringSession#main.py)
+
+<summary> Tap On Replit Button To Open Replit </summary> 
 
 </details>
 
@@ -81,7 +88,7 @@
 
   <summary> • 🤗SUPPORT🤗 • </summary>
 <h2 align="center"> <a href="https://t.me/MafiaBot_Support">❤️ ALICIA ❤️</a></h2>
-- Join For More Future Updates And Report Bugs!!
+<summary> Join For More Future Updates And Report Bugs!! </summary> 
 
 </details>
 
