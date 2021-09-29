@@ -6,7 +6,7 @@ import AliciaMusic.cache.admins
 
 
 async def get_administrators(chat: Chat) -> List[User]:
-    get = cache.admins.get(chat.id)
+    get = AliciaMusic.cache.admins.get(chat.id)
 
     if get:
         return get
