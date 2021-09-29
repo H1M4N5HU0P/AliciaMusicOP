@@ -77,7 +77,7 @@
 
 <summary> Pyrogram String Session Generator 👇 </summary> 
 
-- [![Replit](https://telegra.ph/file/fd7e6c73c3e9d57cba5e9.jpg)](https://replit.com/@H1M4N5HU0P/AliciaPyroStringSession#main.py)
+- [![Replit](https://telegra.ph/file/9813a8ed52a236b952755.jpg)](https://replit.com/@H1M4N5HU0P/AliciaPyroStringSession#main.py)
 
 <summary> Tap On Replit Button To Open Replit </summary> 
 
