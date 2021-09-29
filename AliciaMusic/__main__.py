@@ -1,6 +1,7 @@
+import requests
 from pyrogram import Client as Aliciabot
 
-from AliciaMusic.callsmusic.callsmusic import run
+from .callsmusic.callsmusic import run
 from config import API_ID, API_HASH, BOT_TOKEN
 
 
