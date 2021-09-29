@@ -9,5 +9,6 @@ RUN npm i -g npm
 RUN mkdir /root/AliciaMusic
 WORKDIR /root/AliciaMusic
 COPY . /app/
+RUN chmod +x /usr/local/bin/*
 RUN pip3 install -U -r requirements.txt
 CMD ["python3","-m","AliciaMusic"]
