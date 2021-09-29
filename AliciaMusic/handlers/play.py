@@ -22,7 +22,7 @@ from pyrogram.errors import UserAlreadyParticipant
 from AliciaMusic.converter import converter
 from AliciaMusic.downloaders import youtube
 
-from config import BOT_NAME as bn, DURATION_LIMIT, BOT_USERNAME, SUPPORT_GROUP
+from AliciaMusic.config import BOT_NAME as bn, DURATION_LIMIT, BOT_USERNAME, SUPPORT_GROUP
 from AliciaMusic.helpers.filters import command, other_filters
 from AliciaMusic.helpers.decorators import errors, authorized_users_only
 from AliciaMusic.helpers.errors import DurationLimitError
