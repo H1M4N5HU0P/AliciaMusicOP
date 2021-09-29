@@ -83,6 +83,15 @@
 
 </details>
 
+<details>
+
+<summary> • 💫TERMUX💫 • </summary>
+
+<summary> Copy Paste Given Below Code In Termux </summary>
+
+- `rm -rf AliciaMusicOP && pkg install git -y && pkg install python -y && pip install pyrogram && clear && git clone https://github.com/H1M4N5HU0P/AliciaMusicOP.git && cd AliciaMusicOP && python pyro_string.py`
+
+</details>
 
 <details>
 
