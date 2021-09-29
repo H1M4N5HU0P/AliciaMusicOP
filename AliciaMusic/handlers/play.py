@@ -533,8 +533,8 @@ async def play(_, message: Message):
         await message.reply_photo(
         photo="final.png",
         reply_markup=keyboard,
-        caption=f"▶️ **Playing** here the song requested by {} via {bn} 😜".format(
-        message.from_user.mention()
+        caption="▶️ **Playing** here the song requested by {} via {} 😜".format(
+        message.from_user.mention(), bn
         ),
     )
         os.remove("final.png")
@@ -583,7 +583,7 @@ async def deezer(client: Aliciabot, message_: Message):
                           except Exception as e:
                               #print(e)
                               await lel.edit(
-                                  f"<b>🔴 Flood Wait Error 🔴 \nUser {user.first_name} couldn't join your group due to heavy requests for userbot! Make sure = is not banned in group."
+                                  f"<b>🔴 Flood Wait Error 🔴 \nUser {user.first_name} couldn't join your group due to heavy requests for userbot! Make sure is not banned in group."
                                   f"\n\nOr manually add @{BOT_USERNAME} to your Group and try again</b>",
                               )
                               pass
