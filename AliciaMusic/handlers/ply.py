@@ -59,7 +59,7 @@ async def play(_, message: Message):
     else:
         callsmusic.pytgcalls.join_group_call(message.chat.id, file_path)
         await message.reply_photo(
-        photo= config.BOT_PIC,
+        photo= AliciaMusic.config.BOT_PIC,
         reply_markup=keyboard,
         caption="▶️ **Playing** here the song requested by🔥{}!".format(
         message.from_user.mention()
