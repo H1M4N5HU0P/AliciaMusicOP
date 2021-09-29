@@ -27,7 +27,7 @@ from AliciaMusic.helpers.filters import command, other_filters
 from AliciaMusic.helpers.decorators import errors, authorized_users_only
 from AliciaMusic.helpers.errors import DurationLimitError
 from AliciaMusic.helpers.gets import get_url, get_file_name
-from AliciaMusic.pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
+from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 from AliciaMusic.cache.admins import admins as a
 import os
 import aiohttp
