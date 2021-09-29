@@ -6,8 +6,8 @@ RUN pip3 install -U pip
 RUN curl -sL https://deb.nodesource.com/setup_15.x | bash -
 RUN apt-get install -y nodejs
 RUN npm i -g npm
-RUN mkdir /app/
-WORKDIR /app/
+RUN mkdir /root/AliciaMusic
+WORKDIR /root/AliciaMusic
 COPY . /app/
 RUN pip3 install -U -r requirements.txt
-CMD python3 AliciaMusic
+CMD ["python3","-m","AliciaMusic"]
