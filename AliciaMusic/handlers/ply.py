@@ -5,7 +5,7 @@ from pyrogram.types import Message, Voice
 
 from AliciaMusic.callsmusic import callsmusic, queues
 
-import converter
+from AliciaMusic.converter import converter
 from AliciaMusic.downloaders import youtube
 
 from AliciaMusic.config import BOT_NAME as bn, DURATION_LIMIT, BOT_USERNAME, BOT_PIC

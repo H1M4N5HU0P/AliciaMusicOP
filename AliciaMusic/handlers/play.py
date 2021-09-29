@@ -19,7 +19,7 @@ import os
 import sys
 from AliciaMusic.callsmusic.callsmusic import client as Aliciamusic
 from pyrogram.errors import UserAlreadyParticipant
-import converter
+from AliciaMusic.converter import converter
 from AliciaMusic.downloaders import youtube
 
 from config import BOT_NAME as bn, DURATION_LIMIT, BOT_USERNAME, SUPPORT_GROUP
